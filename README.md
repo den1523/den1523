@@ -38,11 +38,20 @@ Junior QA Engineer
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-### Мои контакты  
+### Мои соцсети  
 <p align="left"> <a href="https://www.codepen.io/den1523" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
 <a href="https://www.facebook.com/den.shxv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/den1523" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/den_shxv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/den-shakhov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
 <a href="https://www.twitter.com/den_1523" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
+
+### Мои контакты
+<p>
+<a href="https://t.me/den_23" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Telegram-blue"/></a>
+<a href="https://www.linkedin.com/in/den-shakhov" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-blue" /></a>
+
 </p>
