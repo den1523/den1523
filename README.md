@@ -21,13 +21,13 @@ My portfolio
 - **Test documentation**
 	
   - Requirements
-    - [Интернет-магазин](https://github.com/den1523/qa-engineer-project-84/blob/main/requirements.yml)
-    - [CodeBattle](https://github.com/den1523/qa-engineer-project-85/blob/main/requirements.yml)
+    - [Online store](https://github.com/den1523/qa-engineer-project-84/blob/main/requirements.yml)
+    - [Testing in production](https://github.com/den1523/qa-engineer-project-85/blob/main/requirements.yml)
   - Test cases
-    - [Интернет-магазин](https://github.com/den1523/qa-engineer-project-84/blob/main/test-cases.yml)
-    - [CodeBattle](https://github.com/den1523/qa-engineer-project-85/blob/main/test-cases.yml)
+    - [Online store](https://github.com/den1523/qa-engineer-project-84/blob/main/test-cases.yml)
+    - [Testing in production](https://github.com/den1523/qa-engineer-project-85/blob/main/test-cases.yml)
   - Bug reports
-    - [Интернет-магазин](https://github.com/den1523/qa-engineer-project-84/blob/main/bugreports.yml)
+    - [Online store](https://github.com/den1523/qa-engineer-project-84/blob/main/bugreports.yml)
 
 ### Tools and technologies 
 <p align="left">
