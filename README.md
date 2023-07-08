@@ -1,35 +1,35 @@
-Hey there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Денис
+Hey there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-Junior QA Engineer
+_I'm_ QA Engineer* _who wants to become a cool specialist in your company_
 --------------------------------
 
-Я выбрал тестирование осознанно, поскольку мои способности соответствуют большинству требований на данную профессию, а также потому, что мне нравится монотонно изучать работу программ и девайсов. Я закончил курс "Инженер по тестированию" на платформе Hexlet, где выполнил несколько проектов, включая тестирование интернет-магазина и тестирование в продакшене. Я знаком с методологией Agile, техниками тест-дизайна, основами реляционных БД, Python, Postman, командной строкой и Git. 
+I chose testing consciously, because my abilities correspond to most of the requirements for this profession, and also because I like to monotonously study the operation of programs and devices. I completed the "Manual QA Engineer" course on the Hexlet platform, where I completed several projects, including testing an online store and testing in production. I am familiar with Agile methodology, test cases techniques, relational database fundamentals, Postman, command line and Git. 
 
 
-Моё резюме
+My resume
 --------------------------------
-Подробное [резюме](https://cv.hexlet.io/ru/resumes/2026)
+Read [detailed](https://cv.hexlet.io/ru/resumes/2026) in Russian and [detailed](https://www.linkedin.com/in/den-shakhov) in English
 
-Моё портфолио
+My portfolio
 --------------------------------
 
-- **Тестовая документация**
+- **Test documentation**
 	
-  - Требования
+  - Requirements
     - [Интернет-магазин](https://github.com/den1523/qa-engineer-project-84/blob/main/requirements.yml)
     - [CodeBattle](https://github.com/den1523/qa-engineer-project-85/blob/main/requirements.yml)
-  - Тест-кейсы
+  - Test cases
     - [Интернет-магазин](https://github.com/den1523/qa-engineer-project-84/blob/main/test-cases.yml)
     - [CodeBattle](https://github.com/den1523/qa-engineer-project-85/blob/main/test-cases.yml)
-  - Баг-репорты
+  - Bug reports
     - [Интернет-магазин](https://github.com/den1523/qa-engineer-project-84/blob/main/bugreports.yml)
 
-### Инструменты и технологии 
+### Tools and technologies 
 <p align="left">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
@@ -46,7 +46,7 @@ Junior QA Engineer
 
 </p>
 
-### Мои соцсети  
+### Social networks  
 <p align="left"> 
 <a href="https://www.facebook.com/den.shxv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/den_shxv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
@@ -56,12 +56,14 @@ Junior QA Engineer
 <a href="https://www.github.com/den1523" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 </p>
 
-### Мои контакты
+### Contacts
 <p>
 <a href="https://t.me/den_23" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://www.linkedin.com/in/den-shakhov" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<br>
+Email: denis.sh23@gmail.com
 </p>
 
 ---
