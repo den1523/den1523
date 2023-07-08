@@ -5,7 +5,7 @@ Hey there![](https://user-images.githubusercontent.com/18350557/176309783-078594
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-_I'm_ QA Engineer* _who wants to become a cool specialist in your company_
+I'm QA Engineer
 --------------------------------
 
 I chose testing consciously, because my abilities correspond to most of the requirements for this profession, and also because I like to monotonously study the operation of programs and devices. I completed the "Manual QA Engineer" course on the Hexlet platform, where I completed several projects, including testing an online store and testing in production. I am familiar with Agile methodology, test cases techniques, relational database fundamentals, Postman, command line and Git. 
@@ -28,6 +28,15 @@ My portfolio
     - [Testing in production](https://github.com/den1523/qa-engineer-project-85/blob/main/test-cases.yml)
   - Bug reports
     - [Online store](https://github.com/den1523/qa-engineer-project-84/blob/main/bugreports.yml)
+
+- **Practical tasks**
+
+  - [Test task](https://github.com/den1523/qa-trainee-test) <br>
+    - Test cases of regression testing.
+    - Test cases for API (Postman).
+    - Test data for testing the email input field.
+
+
 
 ### Tools and technologies 
 <p align="left">
