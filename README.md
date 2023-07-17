@@ -5,10 +5,10 @@ Hey there![](https://user-images.githubusercontent.com/18350557/176309783-078594
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I'm QA Engineer
+I'm Manual QA Engineer
 --------------------------------
 
-I chose testing consciously, because my abilities correspond to most of the requirements for this profession, and also because I like to monotonously study the operation of programs and devices. I completed the "Manual QA Engineer" course on the Hexlet platform, where I completed several projects, including testing an online store and testing in production. I am familiar with Agile methodology, test cases techniques, relational database fundamentals, Postman, command line and Git. 
+I chose testing consciously, because my abilities correspond to most of the requirements for this profession, and also because I like to monotonously study the operation of programs and devices. I completed the "Manual QA Engineer" course on the Hexlet platform, where I completed several projects, including testing an online store and testing in production. I am familiar with Agile methodology, test cases techniques, relational database fundamentals, Postman, command line and Git. Additionally, I study automated testing.
 
 
 My resume
