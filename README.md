@@ -52,6 +52,7 @@ My portfolio
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS"/>
+<img src="https://img.shields.io/badge/atlassian-jira-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Jira"/>
 
 </p>
 
