@@ -5,7 +5,7 @@ Hey there![](https://user-images.githubusercontent.com/18350557/176309783-078594
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I'm Junior Python Developer
+I'm Python Developer
 --------------------------------
 
 I learn Python on my own and also with the help of free courses. I am very interested in the Python development language. I am reading Mark Lutz's book “Learning Python”. I am familiar with Agile methodology, relational database basics, command line and Git. Additionally, I study automated testing.
